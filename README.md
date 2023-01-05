@@ -2,7 +2,7 @@
 - 👀 I’m interested in artificial intelligence and video game development
 - 🌱 I’m currently learning neural networks and web design
 - 💞️ I’m looking to collaborate on artificial intelligence projects
-- 📫 How to reach me ...TBD
+- 📫 How to reach me: woo.justin.dev@gmail.com or https://www.linkedin.com/in/justin-woo-b75254241/
 
 <!---
 Pigflyer55/Pigflyer55 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
